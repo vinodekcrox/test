@@ -1,0 +1,5 @@
+[24-Dec-2015 05:28:57 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/evato/public_html/magentoplugin/dashboard/application/controllers/Welcome.php on line 4
+[24-Dec-2015 06:00:24 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/evato/public_html/magentoplugin/dashboard/application/views/login_form.php on line 31
+[24-Dec-2015 07:00:34 UTC] PHP Fatal error:  Call to a member function login() on a non-object in /home/evato/public_html/magentoplugin/dashboard/application/controllers/User_Authentication.php on line 79
+[09-Mar-2016 07:23:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/evato/public_html/magentoplugin/dashboard/application/views/website/edit_website.php on line 112
+[25-Aug-2016 15:13:54 UTC] PHP Fatal error:  Can't use method return value in write context in /home/evato/public_html/magentoplugin/dashboard/application/controllers/Link.php on line 20
